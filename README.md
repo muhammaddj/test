@@ -1,5 +1,5 @@
 # test
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>
